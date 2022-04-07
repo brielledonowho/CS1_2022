@@ -5,7 +5,7 @@ ___
 
 Implement the dictionary data type using a linked list data structure. 
 
-You may want to implement classes Node and Dictionary, with Dictionary having methods for creation, length, insertion, and lookup (using the magic methods <code>_ _ init_ _</code>, <code>_ _ len _ _</code>,  <code>_ _ getitem _ _</code>, and <code>_ _ contains _ _</code>). 
+You may want to implement classes Node and Dictionary, with Dictionary having methods for creation, length, insertion, and lookup (using the magic methods <code>_ _ init_ _</code>, <code>_ _ len _ _</code>,  <code>_ _ getitem _ _</code>, <code>_ _ setitem _ _</code>, and <code>_ _ contains _ _</code>. 
 
 After defining the classes, write a program to use the dictionary with user input. In particular, write a program that reads lines of user input, each of which is either: 
  1. The string "create",
